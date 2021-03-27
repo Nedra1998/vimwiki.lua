@@ -1,0 +1,2 @@
+# vimwiki.lua
+
